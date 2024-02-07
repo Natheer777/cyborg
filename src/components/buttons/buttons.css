@@ -1,0 +1,25 @@
+.primary-btn a{
+    background-color: var(--color--pink);
+    color: white;
+    padding: 8px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.primary-btn a:hover{
+    background-color: var(--color--light);
+    color: var(--color--pink);
+    transition: 1s;
+}
+
+.secound-btn a{
+    background-color: var(--color--pink);
+    color: white;
+    padding: 8px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.secound-btn a:hover{
+    background-color: var(--color--light);
+    color: var(--color--pink);
+    transition: 1s;
+}

@@ -1,0 +1,10 @@
+.cybogr-navbar{
+    min-height: 100px;
+}
+.nav-link:hover{
+    color: var(--color--pink);
+    transition: 0.5s;
+}
+.borwser{
+    border-bottom: 1px solid var(--color--pink);
+}

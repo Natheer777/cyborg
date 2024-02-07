@@ -1,0 +1,11 @@
+.most-popular-item-image{
+    height: 90%;
+    object-fit: fill;
+
+}
+.hight-card{
+    height: 40vh;
+}
+.card-wrapper ,.most-popular-item-image{
+    border-radius: 15px;
+}

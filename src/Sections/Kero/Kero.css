@@ -1,0 +1,14 @@
+.hero-main{
+    background: url("../../components/assets/images/banner-bg.jpg") ;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: var(--color--dark);
+}
+.hero-text{
+    max-width: 500px;
+}
+.hero-title em{
+    font-style: normal;
+    color: var(--color--pink);
+}

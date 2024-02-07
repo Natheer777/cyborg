@@ -1,0 +1,18 @@
+.gmaing-library-card{
+    flex: 1 1 100%;
+}
+
+.gmaing-library-card ul{
+display: flex;
+padding: 20px 0;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid var(--color--pink);
+flex-wrap: wrap;
+gap: 15px 10px;
+}
+.gmaing-library-card h5{
+font-size: 1rem;
+}
+
+

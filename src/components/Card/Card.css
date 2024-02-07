@@ -1,0 +1,15 @@
+.most-popular-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+    .most-popular-item{
+        margin-top: 20px;
+    }
+    .card-wrapper{
+        margin: 5px;
+    }
+    .most-popular-item-title{
+        line-height: 1.5rem;
+    }

@@ -1,0 +1,33 @@
+h1 span{
+    color: var(--color--pink);
+}
+.swiper-wrapper{
+    display: flex;
+    justify-content: center;
+}
+/* a{
+    display: none;
+} */
+
+.Top-Download .gmaing-library-card ul li:nth-child(3)
+,.Top-Download .gmaing-library-card ul li:nth-child(4){
+    display: none;
+}
+
+.Top-Download .secound-btn {
+    display: none;
+}
+.swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+    display: none;
+}
+
+.swiper-button-next::after,.swiper-button-prev::after {
+    color: gray;
+    font-weight: bold;
+}
+.swiper-button-next::after{
+    color: var(--color--pink) ;
+}
+.swiper-button-prev::after{
+    color: var(--color--pink) ;
+}

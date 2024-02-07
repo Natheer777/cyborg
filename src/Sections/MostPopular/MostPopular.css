@@ -1,0 +1,6 @@
+.card-wrapper{
+    background-color: var(--color--dark);
+}
+.most-popular-item-title{
+    font-size: 14px;
+}
